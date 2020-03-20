@@ -1,4 +1,4 @@
- Full name: OLajide Ogunrinola
+ Full name: Olajide Ogunrinola
  Email address: Ogunrinolaife@gmail.com
  Slack username: ifecoy
  Tracks: Backend, Frontend and Mobile
